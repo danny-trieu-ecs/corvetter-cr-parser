@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CreditFile src="transunion" parser="Phx4.0" CreditReportStatusCode="" CreditReportStatusMessage="Succesfully Pulled the Report from Bureau" CreditReportStatus="Success">
+  <CreditorContactInfo available="true" />
+  <RAW_CREDIT_FILE format="TU.4.0"><![CDATA[TU4R062011154E72212AD04D48A8E015AB0622Z 0252901820150916042210PH0101207000SH01027101Y05N45WIN20041008NM01070F1BARR                     GEORGE         D                    PI01029F666748448            TA01012C1100AD01105F118915        SENECA                       AV     PITTSBURGH                 PA15237     20150801EM01100TTL                                FSOFTWARE ENG          20070901        20150810V          EM01100RETIRED                            F                                      20150810V          SM010411000000000000000001000000001000001SD01056M000040000000000000000018728000000000000000537   SD01056T000040000000000000000018728000000000000000537   TR01288B 0707U008JEFFERSON BK            M11111517                C2004103120150515A                         011000018728000040000         180M000000537FRD460111612                        CV   000000000                     20150415111111111111X11111111111111111111111X11111111111480000002IN0106506TRZ 02529018CONSUMER INF            I           20150916AO010170750001   LK01048TR0000BM0707U008JEFFERSON BK             SA01106C/O LOAN SERVICING            700 SOUTHWEST BLVD            JEFFERSON CITY             MO65101     AO0101700Q8801   SC0103400Q88+790    027015016014  ENDS010020]]></RAW_CREDIT_FILE>
+  <REPORT_INQUIRY><![CDATA[00413111201001154TU4I0111154E72212AD04D48A8E015AB0622Z 02529018X12U1NEU01CONSUMERINFO        RPSH011NM011BARR                     GEORGE                              PI0166674844802151970    AD0118915        CENECA                       AV     PITTSBURGH                 PA15237          RP0107000N    IAI01RS         OD010104001                                                   01RA0107500 LARA0100Q88  AENDS010]]></REPORT_INQUIRY>
+  <MetaInformation>
+    <DateOfReport>2015-09-16T09:22:10.6313740Z</DateOfReport>
+    <CreditFileHitFlag>1</CreditFileHitFlag>
+    <InternalUniqueRequestKey />
+    <SSNsOnFile>
+      <SSNOnFile>666748448</SSNOnFile>
+    </SSNsOnFile>
+    <ConsumerStatement date="" ExpirationDate="" TypeCode="">No Statement(s) present at this time</ConsumerStatement>
+  </MetaInformation>
+  <ReportSummary>
+    <RevCreditLimit>0</RevCreditLimit>
+    <RevHighBalance>0</RevHighBalance>
+    <RevPercentCreditAvail />
+    <RevBalance>0</RevBalance>
+    <!--The following two values have been deprecated and are provided for backwards compatibility only.-->
+    <!--Deprecated:[RevPercentCreditLimit] - Please use [RevCreditLimit]-->
+    <RevPercentCreditLimit>0</RevPercentCreditLimit>
+    <!--Deprecated:[RevPercentCreditBal] - Please use [RevBalance]-->
+    <RevPercentCreditBal>0</RevPercentCreditBal>
+  </ReportSummary>
+  <PersonalProfile>
+    <Name>
+      <FirstName>GEORGE</FirstName>
+      <MiddleName>D</MiddleName>
+      <LastName>BARR</LastName>
+      <Suffix />
+    </Name>
+    <YearOfBirth />
+    <CurrentAddress>
+      <HouseNumber>8915</HouseNumber>
+      <PreDirection />
+      <StreetName>SENECA</StreetName>
+      <StreetType>AV</StreetType>
+      <PostDirection />
+      <UnitNumber />
+      <City>PITTSBURGH</City>
+      <StateOrProvince>PA</StateOrProvince>
+      <PostalCode>15237</PostalCode>
+      <ResidenceType />
+    </CurrentAddress>
+    <CurrentEmployer>TTL</CurrentEmployer>
+    <FormerEmployers>
+      <FormerEmployer>RETIRED</FormerEmployer>
+    </FormerEmployers>
+  </PersonalProfile>
+  <CreditSummary>
+    <Accounts>
+      <AccountGrouping internalID="REAL ESTATE">
+        <TotalAccounts>1</TotalAccounts>
+        <OpenAccounts>1</OpenAccounts>
+        <ClosedAccounts>0</ClosedAccounts>
+        <Balance>18728</Balance>
+        <DelinquentCount>0</DelinquentCount>
+        <DerogatoryCount>0</DerogatoryCount>
+        <CurrentCount>1</CurrentCount>
+        <UnknownCount>0</UnknownCount>
+        <Delinquent30DaysCount>0</Delinquent30DaysCount>
+        <Delinquent60DaysCount>0</Delinquent60DaysCount>
+        <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+        <CurrentDelinquentCount>0</CurrentDelinquentCount>
+        <PastDueAmount>0</PastDueAmount>
+        <MonthlyPayment>537</MonthlyPayment>
+        <SatisfactoryCount>1</SatisfactoryCount>
+        <PaidInFullCount>0</PaidInFullCount>
+        <PastDueCount>0</PastDueCount>
+        <PreviousDelinquentCount>0</PreviousDelinquentCount>
+        <OldestAccountOpenDate>10/31/2004</OldestAccountOpenDate>
+      </AccountGrouping>
+      <AccountGrouping internalID="ALL">
+        <TotalAccounts>1</TotalAccounts>
+        <OpenAccounts>1</OpenAccounts>
+        <ClosedAccounts>0</ClosedAccounts>
+        <Balance>18728</Balance>
+        <DelinquentCount>0</DelinquentCount>
+        <DerogatoryCount>0</DerogatoryCount>
+        <CurrentCount>1</CurrentCount>
+        <UnknownCount>0</UnknownCount>
+        <Delinquent30DaysCount>0</Delinquent30DaysCount>
+        <Delinquent60DaysCount>0</Delinquent60DaysCount>
+        <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+        <CurrentDelinquentCount>0</CurrentDelinquentCount>
+        <PastDueAmount>0</PastDueAmount>
+        <MonthlyPayment>537</MonthlyPayment>
+        <SatisfactoryCount>1</SatisfactoryCount>
+        <PaidInFullCount>0</PaidInFullCount>
+        <PastDueCount>0</PastDueCount>
+        <PreviousDelinquentCount>0</PreviousDelinquentCount>
+        <OldestAccountOpenDate>10/31/2004</OldestAccountOpenDate>
+      </AccountGrouping>
+    </Accounts>
+    <PublicRecords>
+      <PublicRecordCount>0</PublicRecordCount>
+    </PublicRecords>
+    <CreditInquiries>
+      <InquiryCount>1</InquiryCount>
+      <InquiriesPrev6MonthsCount>1</InquiriesPrev6MonthsCount>
+    </CreditInquiries>
+  </CreditSummary>
+  <CreditInquiries>
+    <Inquiry>
+      <CompanyName SubCode="02529018">CONSUMER INF</CompanyName>
+      <Phone />
+      <PhoneExt />
+      <AddrLn1 />
+      <AddrLn2 />
+      <City />
+      <State />
+      <Zip />
+      <CompanyType internalID="Z">Miscellaneous and public record</CompanyType>
+      <DateOfInquiry>9/16/2015</DateOfInquiry>
+    </Inquiry>
+  </CreditInquiries>
+  <AccountHistory>
+    <Account>
+      <Name subcode="0707U008">JEFFERSON BK</Name>
+      <Phone />
+      <PhoneExt />
+      <AddrLn1>C/O LOAN SERVICING</AddrLn1>
+      <AddrLn2>700 SOUTHWEST BLVD</AddrLn2>
+      <City>JEFFERSON CITY</City>
+      <State>MO</State>
+      <Zip>65101</Zip>
+      <Number>11111517</Number>
+      <Type internalID="M">Mortgage account</Type>
+      <BusinessType internalID="B">Banks and S&amp;Ls</BusinessType>
+      <OpenClosed>Open</OpenClosed>
+      <MonthlyPayment>537</MonthlyPayment>
+      <DateOpened>10/31/2004</DateOpened>
+      <BalanceDate>5/15/2015</BalanceDate>
+      <StatusDate>5/15/2015</StatusDate>
+      <Balance>18728</Balance>
+      <Terms internalID="180-M">180 Months</Terms>
+      <HighBalance>40000</HighBalance>
+      <Limit />
+      <PastDueAmount>0</PastDueAmount>
+      <Delinquent30DaysCount>0</Delinquent30DaysCount>
+      <Delinquent60DaysCount>0</Delinquent60DaysCount>
+      <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+      <Remarks />
+      <PaymentStatus internalID="01">Paid or paying as agreed</PaymentStatus>
+      <PaymentStatusClass>CURRENT</PaymentStatusClass>
+      <Classification>REAL ESTATE</Classification>
+      <PaymentHistory>
+        <ProfileYear year="2015">
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2014">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="NoData" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2013">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2012">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="NoData" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2011">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+        </ProfileYear>
+      </PaymentHistory>
+      <CurrentDelinquent />
+      <Responsibility internalID="C">Joint account</Responsibility>
+      <OriginalAmount />
+      <OriginalCreditor />
+    </Account>
+  </AccountHistory>
+  <ScoreInfo>
+    <Score>790</Score>
+  </ScoreInfo>
+</CreditFile>

@@ -1,0 +1,1476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CreditFile src="equifax" parser="Phx4.0" CreditReportStatusCode="" CreditReportStatusMessage="Succesfully Pulled the Report from Bureau" CreditReportStatus="Success">
+  <CreditorContactInfo available="true" />
+  <RAW_CREDIT_FILE format="SystemToSystem.6.0"><![CDATA[FULL154E72212AD04D48A8E0180ZC001342291I02  1052820150712201509162015BARR                                               GEORGE                   D                          666748448                  C0                    4             N               SCCA001FA00000000IS000FN000DT000ES001EF00200000OS000EA000IP000BP000CO00000000LI00000000NR000AC000TL0000000000000PT013000000000000000FI00300000CN000DS000CP000OD000OA00400000MM001DA000SS0010000000000GO000DP00000000D2000000000000000000000000000000000000000000000000FV0000000000000000000000000000CD000CR000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000009800000000CA8915      CENECA                                              PITTSBURGH          PA15237    05002015 O05032015                                                                                            ES                                   WKRPDV EXLOW EXVHV                                                                                                         EFWKRPDV EXLOW EXVHV                 WKRPDV EXLOW EXVHV                                                                                                         EFWKRPDV EXLOW EXVHV                                                                                                                                            PT CBUSASEARS          906DC000290500201511002009         000003612000000204         R1*66I1758-389845333                02010031120112102011204201005002015AV                                                   000000010                                                                                           ************/************/************/*****32*****                  2042010               PT GEMB/HOME DEPOT     404BB038630800201408002014000000000         000000000         R0*  IFJ660592-3444457                                         08002014                                                                                                                                                                                                                                                    PT GEMB/LOWE'S BRC     404BB080290100201311002008000000120         000000000         R *49IF1443610-235                  01010031020092092009       11002009FA                                                                                                                                                       ************/************/************/**32********                                        PT WELLS FARGO BANK, NA805BB874070500201507002003         000002000000001926         R1*99J12001212902301895             05000020820142012014211201205002015CV                                                   000000040                                                                                           ********2***/***2********/*****2******/***********2                  2022011               PT BANK OF AMERICA     805BB024920400201511002010000012257         000001986         I1*53M2129090890                                               04002015                                                     000000259                                                                                                                                                                                      PT WELLS FARGO HOME MOR612FM004490400201511002013000104000         000103000         I1*15J45908978893                                              04002015EFHP                                                 000000926                                                                                                                                                                                      PT BANK OF AMERICA     801ON001190500201506002010                  000003683         R1*59J56560023126078451             06000020420152012015206201405002015FE                                                   000000073                                                                                           2**2******2*/************/***********2/****2****2**                                        PT BB & T              456BB055680400201502002014         000005000000004380         R1*13J56459056343                                              03002015CV                                                   000000044                                                                                                                                                                                      PT CRDT FIRST          594AT002660200201504002010         000000285000000000         R1*58I902356230                     03000020820112052011211201002002014AV                                                   000000010                                                                                           ************/************/************/*****2**2***                  2112010               PT GMAC                906FA000340300201409002009000010425         000000000         I1*53J356-4746-16409                                           02002014FAAO                                                 000000218                                                                                                                                                                                      PT FIRST TENNESSEE MTG 833FM387410500201201002006000054150         000000000         I1*37J34493489127                                              02002012BCEF                                                 000000519                                                                                                                                                                                      PT WELLS FARGO FINANCIA815FP135071200201006002007         000003000000000000         R1*36I426-01738190                  02000020520102082009       11002010AV                                                                                                                                                       ******2*****/***2********/************/******                                              PT FORD MOTOR CREDIT   815FA172511100200808002003000010760         000000000         I1*62JFJD470PSM2                                               09002008                                                     000000179                                                                                                                                                                                      FI02162014CR      456BB04819BRANCH BANKING & TRU  FI01032014CR      241PZ00155PRIORITY ONE SECURIT  FI12272013CR      155UT00474ALLTEL COMMUNICATION  OA906DC00029CBUSASEARS           MAIL ONLY8725 W. SAHARA AVE.           MC 02/02/03                   THE LAKES            NV89163     404BB03863GEMB/HOME DEPOT     8006770232P.O.BOX 981400                                              EL PASO              TX79998     404BB08029GEMB/LOWE'S BRC     8004441408P.O. BOX 981400               BRANCH C821/C874              EL PASO              TX79998     805BB87407WELLS FARGO BANK, NA MAIL ONLYP.O. BOX 3117                 CBDRU                         WINSTON-SALEM        NC27102     OA805BB02492BANK OF AMERICA      MAIL ONLYPO BOX 20507                                                GREENSBORO           NC27420     612FM00449WELLS FARGO HOME MOR8002625924PO BOX 10335                                                DES MOINES           IA50306-0335801ON00119BANK OF AMERICA     80042121104060 OGLETOWN/STANTON RD      DE5-019-03-07                 NEWARK               DE19713     456BB05568BB & T               MAIL ONLYPO BOX 1847                                                 WILSON               NC27894     OA594AT00266CRDT FIRST          21636250006275 EASTLAND ROAD                                          BROOK PARK           OH44142-1399906FA00034GMAC                8002004622P O BOX 380901                                              BLOOMINGTON          MN55438     833FM38741FIRST TENNESSEE MTG 9015234734PO BOX 474                                                  MEMPHIS              TN38101-0474815FP13507WELLS FARGO FINANCIA91985227053715 B FARMINGTON DRIVE                                     GREENSBORO           NC27407     OA815FA17251FORD MOTOR CREDIT   33660506957900 TRIAD CENTER DR STE 350                                GREENSBORO           NC27409-9074456BB04819BRANCH BANKING & TRU MAIL ONLY223 W NASH ST                                               WILSON               NC27893-3880241PZ00155PRIORITY ONE SECURIT70452913714400-F STUART ANDREW BV                                     CHARLOTTE            NC28217     155UT00474ALLTEL COMMUNICATION80025583514003 CLIFTON ROAD                                           GREENSBORO           NC27407     MM0302352 100657 00018000100001300033   SS  666748448            666748448                               &&]]></RAW_CREDIT_FILE>
+  <REPORT_INQUIRY><![CDATA[000504DIAL180ZC00134@U22087562021B  P         IDNT154E72212AD04D48A8E0180ZC00134@U2 I02  666748448GEORGE                                            BARR                                                 02151970                                                                                                              DS                                                                         01AD8915        CENECA                    AV               PITTSBURGH          PA15237    7703858883       MD0235200]]></REPORT_INQUIRY>
+  <MetaInformation>
+    <DateOfReport>2015-09-16T09:22:10.6796570Z</DateOfReport>
+    <CreditFileHitFlag>1</CreditFileHitFlag>
+    <InternalUniqueRequestKey />
+    <SSNsOnFile>
+      <SSNOnFile>666748448</SSNOnFile>
+    </SSNsOnFile>
+    <ConsumerStatement date="" ExpirationDate="" TypeCode="">No Statement(s) present at this time</ConsumerStatement>
+  </MetaInformation>
+  <ReportSummary>
+    <RevCreditLimit>13897</RevCreditLimit>
+    <RevHighBalance>0</RevHighBalance>
+    <RevPercentCreditAvail>26</RevPercentCreditAvail>
+    <RevBalance>10193</RevBalance>
+    <!--The following two values have been deprecated and are provided for backwards compatibility only.-->
+    <!--Deprecated:[RevPercentCreditLimit] - Please use [RevCreditLimit]-->
+    <RevPercentCreditLimit>13897</RevPercentCreditLimit>
+    <!--Deprecated:[RevPercentCreditBal] - Please use [RevBalance]-->
+    <RevPercentCreditBal>10193</RevPercentCreditBal>
+  </ReportSummary>
+  <PersonalProfile>
+    <Name>
+      <FirstName>GEORGE</FirstName>
+      <MiddleName>D</MiddleName>
+      <LastName>BARR</LastName>
+      <Suffix />
+    </Name>
+    <YearOfBirth />
+    <CurrentAddress>
+      <HouseNumber>8915</HouseNumber>
+      <PreDirection />
+      <StreetName>CENECA</StreetName>
+      <StreetType />
+      <PostDirection />
+      <UnitNumber />
+      <City>PITTSBURGH</City>
+      <StateOrProvince>PA</StateOrProvince>
+      <PostalCode>15237</PostalCode>
+      <ResidenceType />
+    </CurrentAddress>
+    <CurrentEmployer>WKRPDV EXLOW EXVHV</CurrentEmployer>
+    <FormerEmployers>
+      <FormerEmployer>WKRPDV EXLOW EXVHV</FormerEmployer>
+      <FormerEmployer />
+    </FormerEmployers>
+  </PersonalProfile>
+  <CreditSummary>
+    <Accounts>
+      <AccountGrouping internalID="REVOLVING">
+        <TotalAccounts>8</TotalAccounts>
+        <OpenAccounts>7</OpenAccounts>
+        <ClosedAccounts>1</ClosedAccounts>
+        <Balance>10193</Balance>
+        <DelinquentCount>0</DelinquentCount>
+        <DerogatoryCount>0</DerogatoryCount>
+        <CurrentCount>8</CurrentCount>
+        <UnknownCount>0</UnknownCount>
+        <Delinquent30DaysCount>6</Delinquent30DaysCount>
+        <Delinquent60DaysCount>2</Delinquent60DaysCount>
+        <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+        <CurrentDelinquentCount>0</CurrentDelinquentCount>
+        <PastDueAmount>0</PastDueAmount>
+        <MonthlyPayment>177</MonthlyPayment>
+        <SatisfactoryCount>2</SatisfactoryCount>
+        <PaidInFullCount>1</PaidInFullCount>
+        <PastDueCount>0</PastDueCount>
+        <PreviousDelinquentCount>6</PreviousDelinquentCount>
+        <OldestAccountOpenDate>7/1/2003</OldestAccountOpenDate>
+      </AccountGrouping>
+      <AccountGrouping internalID="INSTALLMENT">
+        <TotalAccounts>3</TotalAccounts>
+        <OpenAccounts>1</OpenAccounts>
+        <ClosedAccounts>2</ClosedAccounts>
+        <Balance>1986</Balance>
+        <DelinquentCount>0</DelinquentCount>
+        <DerogatoryCount>0</DerogatoryCount>
+        <CurrentCount>3</CurrentCount>
+        <UnknownCount>0</UnknownCount>
+        <Delinquent30DaysCount>0</Delinquent30DaysCount>
+        <Delinquent60DaysCount>0</Delinquent60DaysCount>
+        <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+        <CurrentDelinquentCount>0</CurrentDelinquentCount>
+        <PastDueAmount>0</PastDueAmount>
+        <MonthlyPayment>656</MonthlyPayment>
+        <SatisfactoryCount>3</SatisfactoryCount>
+        <PaidInFullCount>2</PaidInFullCount>
+        <PastDueCount>0</PastDueCount>
+        <PreviousDelinquentCount>0</PreviousDelinquentCount>
+        <OldestAccountOpenDate>8/1/2003</OldestAccountOpenDate>
+      </AccountGrouping>
+      <AccountGrouping internalID="REAL ESTATE">
+        <TotalAccounts>2</TotalAccounts>
+        <OpenAccounts>1</OpenAccounts>
+        <ClosedAccounts>1</ClosedAccounts>
+        <Balance>103000</Balance>
+        <DelinquentCount>0</DelinquentCount>
+        <DerogatoryCount>0</DerogatoryCount>
+        <CurrentCount>2</CurrentCount>
+        <UnknownCount>0</UnknownCount>
+        <Delinquent30DaysCount>0</Delinquent30DaysCount>
+        <Delinquent60DaysCount>0</Delinquent60DaysCount>
+        <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+        <CurrentDelinquentCount>0</CurrentDelinquentCount>
+        <PastDueAmount>0</PastDueAmount>
+        <MonthlyPayment>1445</MonthlyPayment>
+        <SatisfactoryCount>2</SatisfactoryCount>
+        <PaidInFullCount>1</PaidInFullCount>
+        <PastDueCount>0</PastDueCount>
+        <PreviousDelinquentCount>0</PreviousDelinquentCount>
+        <OldestAccountOpenDate>1/1/2006</OldestAccountOpenDate>
+      </AccountGrouping>
+      <AccountGrouping internalID="ALL">
+        <TotalAccounts>13</TotalAccounts>
+        <OpenAccounts>9</OpenAccounts>
+        <ClosedAccounts>4</ClosedAccounts>
+        <Balance>115179</Balance>
+        <DelinquentCount>0</DelinquentCount>
+        <DerogatoryCount>0</DerogatoryCount>
+        <CurrentCount>13</CurrentCount>
+        <UnknownCount>0</UnknownCount>
+        <Delinquent30DaysCount>6</Delinquent30DaysCount>
+        <Delinquent60DaysCount>2</Delinquent60DaysCount>
+        <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+        <CurrentDelinquentCount>0</CurrentDelinquentCount>
+        <PastDueAmount>0</PastDueAmount>
+        <MonthlyPayment>2278</MonthlyPayment>
+        <SatisfactoryCount>7</SatisfactoryCount>
+        <PaidInFullCount>4</PaidInFullCount>
+        <PastDueCount>0</PastDueCount>
+        <PreviousDelinquentCount>6</PreviousDelinquentCount>
+        <OldestAccountOpenDate>7/1/2003</OldestAccountOpenDate>
+      </AccountGrouping>
+    </Accounts>
+    <PublicRecords>
+      <PublicRecordCount>0</PublicRecordCount>
+    </PublicRecords>
+    <CreditInquiries>
+      <InquiryCount>3</InquiryCount>
+      <InquiriesPrev6MonthsCount>0</InquiriesPrev6MonthsCount>
+    </CreditInquiries>
+  </CreditSummary>
+  <CreditInquiries>
+    <Inquiry>
+      <CompanyName SubCode="456BB04819">BRANCH BANKING &amp; TRU</CompanyName>
+      <Phone>MAIL ONLY</Phone>
+      <PhoneExt />
+      <AddrLn1>223 W NASH ST</AddrLn1>
+      <AddrLn2 />
+      <City>WILSON</City>
+      <State>NC</State>
+      <Zip>27893-3880</Zip>
+      <CompanyType internalID="BB">All Banks</CompanyType>
+      <DateOfInquiry>2/16/2014</DateOfInquiry>
+    </Inquiry>
+    <Inquiry>
+      <CompanyName SubCode="241PZ00155">PRIORITY ONE SECURIT</CompanyName>
+      <Phone>7045291371</Phone>
+      <PhoneExt />
+      <AddrLn1>4400-F STUART ANDREW BV</AddrLn1>
+      <AddrLn2 />
+      <City>CHARLOTTE</City>
+      <State>NC</State>
+      <Zip>28217</Zip>
+      <CompanyType internalID="PZ">Miscellaneous</CompanyType>
+      <DateOfInquiry>1/3/2014</DateOfInquiry>
+    </Inquiry>
+    <Inquiry>
+      <CompanyName SubCode="155UT00474">ALLTEL COMMUNICATION</CompanyName>
+      <Phone>8002558351</Phone>
+      <PhoneExt />
+      <AddrLn1>4003 CLIFTON ROAD</AddrLn1>
+      <AddrLn2 />
+      <City>GREENSBORO</City>
+      <State>NC</State>
+      <Zip>27407</Zip>
+      <CompanyType internalID="UT">Telephone Companies</CompanyType>
+      <DateOfInquiry>12/27/2013</DateOfInquiry>
+    </Inquiry>
+  </CreditInquiries>
+  <AccountHistory>
+    <Account>
+      <Name subcode="805BB02492">BANK OF AMERICA</Name>
+      <Phone>MAIL ONLY</Phone>
+      <PhoneExt />
+      <AddrLn1>PO BOX 20507</AddrLn1>
+      <AddrLn2 />
+      <City>GREENSBORO</City>
+      <State>NC</State>
+      <Zip>27420</Zip>
+      <Number>2129090890</Number>
+      <Type internalID="I">Installment</Type>
+      <BusinessType internalID="BB">All Banks</BusinessType>
+      <OpenClosed>Open</OpenClosed>
+      <MonthlyPayment>259</MonthlyPayment>
+      <DateOpened>11/1/2010</DateOpened>
+      <BalanceDate>4/1/2015</BalanceDate>
+      <StatusDate>4/1/2015</StatusDate>
+      <Balance>1986</Balance>
+      <Terms internalID="" />
+      <HighBalance>12257</HighBalance>
+      <Limit />
+      <PastDueAmount />
+      <Delinquent30DaysCount>0</Delinquent30DaysCount>
+      <Delinquent60DaysCount>0</Delinquent60DaysCount>
+      <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+      <Remarks />
+      <PaymentStatus internalID="1">Pays account as agreed</PaymentStatus>
+      <PaymentStatusClass>CURRENT</PaymentStatusClass>
+      <Classification>INSTALLMENT</Classification>
+      <PaymentHistory>
+        <ProfileYear year="2015">
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2014">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2013">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2012">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2011">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2010" />
+      </PaymentHistory>
+      <CurrentDelinquent />
+      <Responsibility internalID="M">Maker</Responsibility>
+      <OriginalAmount />
+      <OriginalCreditor />
+    </Account>
+    <Account>
+      <Name subcode="801ON00119">BANK OF AMERICA</Name>
+      <Phone>8004212110</Phone>
+      <PhoneExt />
+      <AddrLn1>4060 OGLETOWN/STANTON RD</AddrLn1>
+      <AddrLn2>DE5-019-03-07</AddrLn2>
+      <City>NEWARK</City>
+      <State>DE</State>
+      <Zip>19713</Zip>
+      <Number>56560023126078451</Number>
+      <Type internalID="R">Revolving or Option</Type>
+      <BusinessType internalID="ON">National Credit Card Cos.</BusinessType>
+      <OpenClosed>Open</OpenClosed>
+      <MonthlyPayment>73</MonthlyPayment>
+      <DateOpened>6/1/2010</DateOpened>
+      <BalanceDate>5/1/2015</BalanceDate>
+      <StatusDate>5/1/2015</StatusDate>
+      <Balance>3683</Balance>
+      <Terms internalID="" />
+      <HighBalance />
+      <Limit />
+      <PastDueAmount />
+      <Delinquent30DaysCount>6</Delinquent30DaysCount>
+      <Delinquent60DaysCount>0</Delinquent60DaysCount>
+      <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+      <Remarks>
+        <Remark internalID="FE">CREDIT CARD</Remark>
+      </Remarks>
+      <PaymentStatus internalID="1">Pays account as agreed</PaymentStatus>
+      <PaymentStatusClass>CURRENT</PaymentStatusClass>
+      <Classification>REVOLVING</Classification>
+      <PaymentHistory>
+        <ProfileYear year="2015">
+          <ProfileMonth month="4" paymentStatus="30Late" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="30Late" />
+        </ProfileYear>
+        <ProfileYear year="2014">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="30Late" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2013">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2012">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="30Late" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2011">
+          <ProfileMonth month="12" paymentStatus="30Late" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="30Late" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+        </ProfileYear>
+      </PaymentHistory>
+      <CurrentDelinquent />
+      <Responsibility internalID="J">Joint Account</Responsibility>
+      <OriginalAmount />
+      <OriginalCreditor />
+      <Comment>CREDIT CARD</Comment>
+    </Account>
+    <Account>
+      <Name subcode="456BB05568">BB &amp; T</Name>
+      <Phone>MAIL ONLY</Phone>
+      <PhoneExt />
+      <AddrLn1>PO BOX 1847</AddrLn1>
+      <AddrLn2 />
+      <City>WILSON</City>
+      <State>NC</State>
+      <Zip>27894</Zip>
+      <Number>56459056343</Number>
+      <Type internalID="R">Revolving or Option</Type>
+      <BusinessType internalID="BB">All Banks</BusinessType>
+      <OpenClosed>Open</OpenClosed>
+      <MonthlyPayment>44</MonthlyPayment>
+      <DateOpened>2/1/2014</DateOpened>
+      <BalanceDate>4/1/2015</BalanceDate>
+      <StatusDate>4/1/2015</StatusDate>
+      <Balance>4380</Balance>
+      <Terms internalID="" />
+      <HighBalance />
+      <Limit>5000</Limit>
+      <PastDueAmount />
+      <Delinquent30DaysCount>0</Delinquent30DaysCount>
+      <Delinquent60DaysCount>0</Delinquent60DaysCount>
+      <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+      <Remarks>
+        <Remark internalID="CV">LINE OF CREDIT</Remark>
+      </Remarks>
+      <PaymentStatus internalID="1">Pays account as agreed</PaymentStatus>
+      <PaymentStatusClass>CURRENT</PaymentStatusClass>
+      <Classification>REVOLVING</Classification>
+      <PaymentHistory>
+        <ProfileYear year="2015">
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2014">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2013">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2012">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2011">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2010" />
+      </PaymentHistory>
+      <CurrentDelinquent />
+      <Responsibility internalID="J">Joint Account</Responsibility>
+      <OriginalAmount />
+      <OriginalCreditor />
+      <Comment>LINE OF CREDIT</Comment>
+    </Account>
+    <Account>
+      <Name subcode="906DC00029">CBUSASEARS</Name>
+      <Phone>MAIL ONLY</Phone>
+      <PhoneExt />
+      <AddrLn1>8725 W. SAHARA AVE.</AddrLn1>
+      <AddrLn2>MC 02/02/03</AddrLn2>
+      <City>THE LAKES</City>
+      <State>NV</State>
+      <Zip>89163</Zip>
+      <Number>1758-389845333</Number>
+      <Type internalID="R">Revolving or Option</Type>
+      <BusinessType internalID="DC">Complete Dept. Stores</BusinessType>
+      <OpenClosed>Open</OpenClosed>
+      <MonthlyPayment>10</MonthlyPayment>
+      <DateOpened>11/1/2009</DateOpened>
+      <BalanceDate>5/1/2015</BalanceDate>
+      <StatusDate>5/1/2015</StatusDate>
+      <Balance>204</Balance>
+      <Terms internalID="" />
+      <HighBalance />
+      <Limit>3612</Limit>
+      <PastDueAmount />
+      <Delinquent30DaysCount>2</Delinquent30DaysCount>
+      <Delinquent60DaysCount>1</Delinquent60DaysCount>
+      <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+      <Remarks>
+        <Remark internalID="AV">CHARGE</Remark>
+      </Remarks>
+      <PaymentStatus internalID="1">Pays account as agreed</PaymentStatus>
+      <PaymentStatusClass>CURRENT</PaymentStatusClass>
+      <Classification>REVOLVING</Classification>
+      <PaymentHistory>
+        <ProfileYear year="2015">
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2014">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2013">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2012">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2011">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="60Late" />
+          <ProfileMonth month="10" paymentStatus="30Late" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+        </ProfileYear>
+      </PaymentHistory>
+      <CurrentDelinquent />
+      <Responsibility internalID="I">Individual Account</Responsibility>
+      <OriginalAmount />
+      <OriginalCreditor />
+      <Comment>CHARGE</Comment>
+    </Account>
+    <Account>
+      <Name subcode="594AT00266">CRDT FIRST</Name>
+      <Phone>2163625000</Phone>
+      <PhoneExt />
+      <AddrLn1>6275 EASTLAND ROAD</AddrLn1>
+      <AddrLn2 />
+      <City>BROOK PARK</City>
+      <State>OH</State>
+      <Zip>44142-1399</Zip>
+      <Number>902356230</Number>
+      <Type internalID="R">Revolving or Option</Type>
+      <BusinessType internalID="AT">TBA Stores, Tire Dealers</BusinessType>
+      <OpenClosed>Open</OpenClosed>
+      <MonthlyPayment>10</MonthlyPayment>
+      <DateOpened>4/1/2010</DateOpened>
+      <BalanceDate>2/1/2015</BalanceDate>
+      <StatusDate>2/1/2015</StatusDate>
+      <Balance>0</Balance>
+      <Terms internalID="" />
+      <HighBalance />
+      <Limit>285</Limit>
+      <PastDueAmount />
+      <Delinquent30DaysCount>3</Delinquent30DaysCount>
+      <Delinquent60DaysCount>0</Delinquent60DaysCount>
+      <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+      <Remarks>
+        <Remark internalID="AV">CHARGE</Remark>
+      </Remarks>
+      <PaymentStatus internalID="1">Pays account as agreed</PaymentStatus>
+      <PaymentStatusClass>CURRENT</PaymentStatusClass>
+      <Classification>REVOLVING</Classification>
+      <PaymentHistory>
+        <ProfileYear year="2015">
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2014">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2013">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2012">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2011">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="30Late" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="30Late" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+        </ProfileYear>
+      </PaymentHistory>
+      <CurrentDelinquent />
+      <Responsibility internalID="I">Individual Account</Responsibility>
+      <OriginalAmount />
+      <OriginalCreditor />
+      <Comment>CHARGE</Comment>
+    </Account>
+    <Account>
+      <Name subcode="833FM38741">FIRST TENNESSEE MTG</Name>
+      <Phone>9015234734</Phone>
+      <PhoneExt />
+      <AddrLn1>PO BOX 474</AddrLn1>
+      <AddrLn2 />
+      <City>MEMPHIS</City>
+      <State>TN</State>
+      <Zip>38101-0474</Zip>
+      <Number>34493489127</Number>
+      <Type internalID="I">Real Estate</Type>
+      <BusinessType internalID="FM">Mortgage Cos.</BusinessType>
+      <OpenClosed>Closed</OpenClosed>
+      <MonthlyPayment>519</MonthlyPayment>
+      <DateOpened>1/1/2006</DateOpened>
+      <BalanceDate>5/1/2012</BalanceDate>
+      <StatusDate>5/1/2012</StatusDate>
+      <Balance>0</Balance>
+      <Terms internalID="" />
+      <HighBalance>54150</HighBalance>
+      <Limit />
+      <PastDueAmount />
+      <Delinquent30DaysCount>0</Delinquent30DaysCount>
+      <Delinquent60DaysCount>0</Delinquent60DaysCount>
+      <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+      <Remarks>
+        <Remark internalID="BC">ACCOUNT TRANSFERRED OR SOLD</Remark>
+        <Remark internalID="EF">REAL ESTATE MORTGAGE</Remark>
+      </Remarks>
+      <PaymentStatus internalID="1">Pays account as agreed</PaymentStatus>
+      <PaymentStatusClass>CURRENT</PaymentStatusClass>
+      <Classification>REAL ESTATE</Classification>
+      <PaymentHistory>
+        <ProfileYear year="2012">
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2011">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2010">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2009">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2008">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+        </ProfileYear>
+      </PaymentHistory>
+      <CurrentDelinquent />
+      <Responsibility internalID="J">Joint Account</Responsibility>
+      <OriginalAmount />
+      <OriginalCreditor />
+      <Comment>ACCOUNT TRANSFERRED OR SOLD</Comment>
+      <Comment>REAL ESTATE MORTGAGE</Comment>
+    </Account>
+    <Account>
+      <Name subcode="815FA17251">FORD MOTOR CREDIT</Name>
+      <Phone>3366050695</Phone>
+      <PhoneExt />
+      <AddrLn1>7900 TRIAD CENTER DR STE 350</AddrLn1>
+      <AddrLn2 />
+      <City>GREENSBORO</City>
+      <State>NC</State>
+      <Zip>27409-9074</Zip>
+      <Number>FJD470PSM2</Number>
+      <Type internalID="I">Installment</Type>
+      <BusinessType internalID="FA">Auto Financing</BusinessType>
+      <OpenClosed>Closed</OpenClosed>
+      <MonthlyPayment>179</MonthlyPayment>
+      <DateOpened>8/1/2003</DateOpened>
+      <BalanceDate>11/1/2008</BalanceDate>
+      <StatusDate>11/1/2008</StatusDate>
+      <Balance>0</Balance>
+      <Terms internalID="" />
+      <HighBalance>10760</HighBalance>
+      <Limit />
+      <PastDueAmount />
+      <Delinquent30DaysCount>0</Delinquent30DaysCount>
+      <Delinquent60DaysCount>0</Delinquent60DaysCount>
+      <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+      <Remarks />
+      <PaymentStatus internalID="1">Pays account as agreed</PaymentStatus>
+      <PaymentStatusClass>CURRENT</PaymentStatusClass>
+      <Classification>INSTALLMENT</Classification>
+      <PaymentHistory>
+        <ProfileYear year="2008">
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2007">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2006">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2005">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2004">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+        </ProfileYear>
+      </PaymentHistory>
+      <CurrentDelinquent />
+      <Responsibility internalID="J">Joint Account</Responsibility>
+      <OriginalAmount />
+      <OriginalCreditor />
+    </Account>
+    <Account>
+      <Name subcode="404BB03863">GEMB/HOME DEPOT</Name>
+      <Phone>8006770232</Phone>
+      <PhoneExt />
+      <AddrLn1>P.O.BOX 981400</AddrLn1>
+      <AddrLn2 />
+      <City>EL PASO</City>
+      <State>TX</State>
+      <Zip>79998</Zip>
+      <Number>FJ660592-3444457</Number>
+      <Type internalID="R">Revolving or Option</Type>
+      <BusinessType internalID="BB">All Banks</BusinessType>
+      <OpenClosed>Open</OpenClosed>
+      <MonthlyPayment />
+      <DateOpened>8/1/2014</DateOpened>
+      <BalanceDate>8/1/2014</BalanceDate>
+      <StatusDate>8/1/2014</StatusDate>
+      <Balance>0</Balance>
+      <Terms internalID="" />
+      <HighBalance>0</HighBalance>
+      <Limit />
+      <PastDueAmount />
+      <Delinquent30DaysCount>0</Delinquent30DaysCount>
+      <Delinquent60DaysCount>0</Delinquent60DaysCount>
+      <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+      <Remarks>
+        <Remark internalID="0">Too new to rate</Remark>
+      </Remarks>
+      <PaymentStatus internalID="0">Too new to rate</PaymentStatus>
+      <PaymentStatusClass>CURRENT</PaymentStatusClass>
+      <Classification>REVOLVING</Classification>
+      <PaymentHistory>
+        <ProfileYear year="2014">
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2013">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2012">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2011">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2010">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+        </ProfileYear>
+      </PaymentHistory>
+      <CurrentDelinquent />
+      <Responsibility internalID="I">Individual Account</Responsibility>
+      <OriginalAmount />
+      <OriginalCreditor />
+    </Account>
+    <Account>
+      <Name subcode="404BB08029">GEMB/LOWE'S BRC</Name>
+      <Phone>8004441408</Phone>
+      <PhoneExt />
+      <AddrLn1>P.O. BOX 981400</AddrLn1>
+      <AddrLn2>BRANCH C821/C874</AddrLn2>
+      <City>EL PASO</City>
+      <State>TX</State>
+      <Zip>79998</Zip>
+      <Number>F1443610-235</Number>
+      <Type internalID="R">Revolving or Option</Type>
+      <BusinessType internalID="BB">All Banks</BusinessType>
+      <OpenClosed>Closed</OpenClosed>
+      <MonthlyPayment />
+      <DateOpened>11/1/2008</DateOpened>
+      <BalanceDate>1/1/2013</BalanceDate>
+      <StatusDate>1/1/2013</StatusDate>
+      <Balance>0</Balance>
+      <Terms internalID="" />
+      <HighBalance>120</HighBalance>
+      <Limit />
+      <PastDueAmount />
+      <Delinquent30DaysCount>1</Delinquent30DaysCount>
+      <Delinquent60DaysCount>1</Delinquent60DaysCount>
+      <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+      <Remarks>
+        <Remark internalID="FA">PAID ACCOUNT / ZERO BALANCE</Remark>
+        <Remark internalID="" />
+      </Remarks>
+      <PaymentStatus internalID="" />
+      <PaymentStatusClass>CURRENT</PaymentStatusClass>
+      <Classification>REVOLVING</Classification>
+      <PaymentHistory>
+        <ProfileYear year="2012">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2011">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2010">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2009">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="60Late" />
+          <ProfileMonth month="9" paymentStatus="30Late" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2008" />
+      </PaymentHistory>
+      <CurrentDelinquent />
+      <Responsibility internalID="I">Individual Account</Responsibility>
+      <OriginalAmount />
+      <OriginalCreditor />
+      <Comment>PAID ACCOUNT / ZERO BALANCE</Comment>
+    </Account>
+    <Account>
+      <Name subcode="906FA00034">GMAC</Name>
+      <Phone>8002004622</Phone>
+      <PhoneExt />
+      <AddrLn1>P O BOX 380901</AddrLn1>
+      <AddrLn2 />
+      <City>BLOOMINGTON</City>
+      <State>MN</State>
+      <Zip>55438</Zip>
+      <Number>356-4746-16409</Number>
+      <Type internalID="I">Installment</Type>
+      <BusinessType internalID="FA">Auto Financing</BusinessType>
+      <OpenClosed>Closed</OpenClosed>
+      <MonthlyPayment>218</MonthlyPayment>
+      <DateOpened>9/1/2009</DateOpened>
+      <BalanceDate>3/1/2014</BalanceDate>
+      <StatusDate>3/1/2014</StatusDate>
+      <Balance>0</Balance>
+      <Terms internalID="" />
+      <HighBalance>10425</HighBalance>
+      <Limit />
+      <PastDueAmount />
+      <Delinquent30DaysCount>0</Delinquent30DaysCount>
+      <Delinquent60DaysCount>0</Delinquent60DaysCount>
+      <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+      <Remarks>
+        <Remark internalID="FA">PAID ACCOUNT / ZERO BALANCE</Remark>
+        <Remark internalID="AO">AUTO</Remark>
+      </Remarks>
+      <PaymentStatus internalID="1">Pays account as agreed</PaymentStatus>
+      <PaymentStatusClass>CURRENT</PaymentStatusClass>
+      <Classification>INSTALLMENT</Classification>
+      <PaymentHistory>
+        <ProfileYear year="2014">
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2013">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2012">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2011">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2010">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2009">
+          <ProfileMonth month="12" paymentStatus="OK" />
+        </ProfileYear>
+      </PaymentHistory>
+      <CurrentDelinquent />
+      <Responsibility internalID="J">Joint Account</Responsibility>
+      <OriginalAmount />
+      <OriginalCreditor />
+      <Comment>PAID ACCOUNT / ZERO BALANCE</Comment>
+      <Comment>AUTO</Comment>
+    </Account>
+    <Account>
+      <Name subcode="805BB87407">WELLS FARGO BANK, NA</Name>
+      <Phone>MAIL ONLY</Phone>
+      <PhoneExt />
+      <AddrLn1>P.O. BOX 3117</AddrLn1>
+      <AddrLn2>CBDRU</AddrLn2>
+      <City>WINSTON-SALEM</City>
+      <State>NC</State>
+      <Zip>27102</Zip>
+      <Number>12001212902301895</Number>
+      <Type internalID="R">Revolving or Option</Type>
+      <BusinessType internalID="BB">All Banks</BusinessType>
+      <OpenClosed>Open</OpenClosed>
+      <MonthlyPayment>40</MonthlyPayment>
+      <DateOpened>7/1/2003</DateOpened>
+      <BalanceDate>5/1/2015</BalanceDate>
+      <StatusDate>5/1/2015</StatusDate>
+      <Balance>1926</Balance>
+      <Terms internalID="" />
+      <HighBalance />
+      <Limit>2000</Limit>
+      <PastDueAmount />
+      <Delinquent30DaysCount>5</Delinquent30DaysCount>
+      <Delinquent60DaysCount>0</Delinquent60DaysCount>
+      <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+      <Remarks>
+        <Remark internalID="CV">LINE OF CREDIT</Remark>
+      </Remarks>
+      <PaymentStatus internalID="1">Pays account as agreed</PaymentStatus>
+      <PaymentStatusClass>CURRENT</PaymentStatusClass>
+      <Classification>REVOLVING</Classification>
+      <PaymentHistory>
+        <ProfileYear year="2015">
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2014">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="30Late" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="30Late" />
+        </ProfileYear>
+        <ProfileYear year="2013">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2012">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="30Late" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2011">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="30Late" />
+        </ProfileYear>
+      </PaymentHistory>
+      <CurrentDelinquent />
+      <Responsibility internalID="J">Joint Account</Responsibility>
+      <OriginalAmount />
+      <OriginalCreditor />
+      <Comment>LINE OF CREDIT</Comment>
+    </Account>
+    <Account>
+      <Name subcode="815FP13507">WELLS FARGO FINANCIA</Name>
+      <Phone>9198522705</Phone>
+      <PhoneExt />
+      <AddrLn1>3715 B FARMINGTON DRIVE</AddrLn1>
+      <AddrLn2 />
+      <City>GREENSBORO</City>
+      <State>NC</State>
+      <Zip>27407</Zip>
+      <Number>426-01738190</Number>
+      <Type internalID="R">Revolving or Option</Type>
+      <BusinessType internalID="FP">Personal Loans Cos.</BusinessType>
+      <OpenClosed>Open</OpenClosed>
+      <MonthlyPayment />
+      <DateOpened>6/1/2007</DateOpened>
+      <BalanceDate>12/1/2010</BalanceDate>
+      <StatusDate>12/1/2010</StatusDate>
+      <Balance>0</Balance>
+      <Terms internalID="" />
+      <HighBalance />
+      <Limit>3000</Limit>
+      <PastDueAmount />
+      <Delinquent30DaysCount>2</Delinquent30DaysCount>
+      <Delinquent60DaysCount>0</Delinquent60DaysCount>
+      <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+      <Remarks>
+        <Remark internalID="AV">CHARGE</Remark>
+      </Remarks>
+      <PaymentStatus internalID="1">Pays account as agreed</PaymentStatus>
+      <PaymentStatusClass>CURRENT</PaymentStatusClass>
+      <Classification>REVOLVING</Classification>
+      <PaymentHistory>
+        <ProfileYear year="2010">
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="30Late" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2009">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="30Late" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2008">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2007">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="NoData" />
+          <ProfileMonth month="4" paymentStatus="NoData" />
+          <ProfileMonth month="3" paymentStatus="NoData" />
+          <ProfileMonth month="2" paymentStatus="NoData" />
+          <ProfileMonth month="1" paymentStatus="NoData" />
+        </ProfileYear>
+        <ProfileYear year="2006">
+          <ProfileMonth month="12" paymentStatus="NoData" />
+        </ProfileYear>
+      </PaymentHistory>
+      <CurrentDelinquent />
+      <Responsibility internalID="I">Individual Account</Responsibility>
+      <OriginalAmount />
+      <OriginalCreditor />
+      <Comment>CHARGE</Comment>
+    </Account>
+    <Account>
+      <Name subcode="612FM00449">WELLS FARGO HOME MOR</Name>
+      <Phone>8002625924</Phone>
+      <PhoneExt />
+      <AddrLn1>PO BOX 10335</AddrLn1>
+      <AddrLn2 />
+      <City>DES MOINES</City>
+      <State>IA</State>
+      <Zip>50306-0335</Zip>
+      <Number>45908978893</Number>
+      <Type internalID="I">Real Estate</Type>
+      <BusinessType internalID="FM">Mortgage Cos.</BusinessType>
+      <OpenClosed>Open</OpenClosed>
+      <MonthlyPayment>926</MonthlyPayment>
+      <DateOpened>11/1/2013</DateOpened>
+      <BalanceDate>4/1/2015</BalanceDate>
+      <StatusDate>4/1/2015</StatusDate>
+      <Balance>103000</Balance>
+      <Terms internalID="" />
+      <HighBalance>104000</HighBalance>
+      <Limit />
+      <PastDueAmount />
+      <Delinquent30DaysCount>0</Delinquent30DaysCount>
+      <Delinquent60DaysCount>0</Delinquent60DaysCount>
+      <Delinquent90PlusDaysCount>0</Delinquent90PlusDaysCount>
+      <Remarks>
+        <Remark internalID="EF">REAL ESTATE MORTGAGE</Remark>
+        <Remark internalID="HP">FHA MORTGAGE</Remark>
+      </Remarks>
+      <PaymentStatus internalID="1">Pays account as agreed</PaymentStatus>
+      <PaymentStatusClass>CURRENT</PaymentStatusClass>
+      <Classification>REAL ESTATE</Classification>
+      <PaymentHistory>
+        <ProfileYear year="2015">
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2014">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2013">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2012">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2011">
+          <ProfileMonth month="12" paymentStatus="OK" />
+          <ProfileMonth month="11" paymentStatus="OK" />
+          <ProfileMonth month="10" paymentStatus="OK" />
+          <ProfileMonth month="9" paymentStatus="OK" />
+          <ProfileMonth month="8" paymentStatus="OK" />
+          <ProfileMonth month="7" paymentStatus="OK" />
+          <ProfileMonth month="6" paymentStatus="OK" />
+          <ProfileMonth month="5" paymentStatus="OK" />
+          <ProfileMonth month="4" paymentStatus="OK" />
+          <ProfileMonth month="3" paymentStatus="OK" />
+          <ProfileMonth month="2" paymentStatus="OK" />
+          <ProfileMonth month="1" paymentStatus="OK" />
+        </ProfileYear>
+        <ProfileYear year="2010" />
+      </PaymentHistory>
+      <CurrentDelinquent />
+      <Responsibility internalID="J">Joint Account</Responsibility>
+      <OriginalAmount />
+      <OriginalCreditor />
+      <Comment>REAL ESTATE MORTGAGE</Comment>
+      <Comment>FHA MORTGAGE</Comment>
+    </Account>
+  </AccountHistory>
+  <ScoreInfo>
+    <Score>657</Score>
+  </ScoreInfo>
+</CreditFile>
